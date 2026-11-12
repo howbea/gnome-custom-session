@@ -1,0 +1,14 @@
+.activities-icon {
+  -st-icon-style: symbolic;
+  icon-size: 16px;
+  }
+  
+.activities-layout {
+
+  }
+  
+.activities-layout .workspace-dot {
+  }
+  
+#panel .panel-button#panelActivities StBoxLayout {
+  }
