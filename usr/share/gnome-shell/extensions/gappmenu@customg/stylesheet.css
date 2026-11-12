@@ -1,0 +1,15 @@
+#appMenu .panel-status-menu-box {
+ spacing: 5px;
+ }
+ 
+.app-menu-icon {
+ -st-icon-style: symbolic;
+}
+
+.panel-app-menu {
+ min-width: 19em;
+}
+
+.place-menu-item {
+  -st-icon-style: symbolic;
+ }

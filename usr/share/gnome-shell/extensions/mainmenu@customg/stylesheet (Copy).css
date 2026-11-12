@@ -1,0 +1,98 @@
+/* Add your custom extension styling here */
+
+#panel .panel-button#panelActivitiesMenu StBoxLayout {
+  padding: 0 6px;
+  spacing: 6px;
+}
+
+#panel .panel-button#panelActivitiesMenu StBoxLayout {
+      padding: 0 0.2045em;
+      spacing: 5px; }
+
+.activities-icon {
+  -st-icon-style: symbolic;
+  icon-size: 1.1em;
+}
+
+.activities-label {
+font-family: 'debianlogo';
+font-size: 1.9px;
+    
+}
+
+
+.main-menu .popup-sub-menu .popup-menu-item .panel-apps-favorites-box
+{}
+  
+#panelActivitiesMenu {
+}
+
+.main-menu .items-box {
+spacing: 9px;
+}
+.space-widget {
+width: 0.3em;
+}
+  
+.main-menu {
+  min-width: 22em;
+  max-width: 22em;}
+  .main-menu .popup-menu-ornament {
+    width: 0 !important; }
+  .main-menu .popup-menu-icon {
+    -st-icon-style: symbolic; }
+    .main-menu .popup-menu-icon:ltr {
+      margin-right: 0.5em; }
+    .main-menu .popup-menu-icon:rtl {
+      margin-left: 0.5em; }      
+  .main-menu .popup-sub-menu .popup-menu-item > :first-child:ltr {
+    margin-left: 1em; }
+  .main-menu .popup-sub-menu .popup-menu-item > :first-child:rtl {
+    margin-right: 1em; }
+  
+    
+  .main-menu .popup-sub-menu .items-item {
+    spacing: 0.5em;
+  }
+  
+  .main-menu .popup-sub-menu .items-sitem {
+    spacing: 0.5em;
+  }
+    
+  .main-menu .popup-sub-menu .items-item > :first-child:ltr {
+    margin-left: 0em; }
+  .main-menu .popup-sub-menu .items-item > :first-child:rtl {
+    margin-right: 0em; }
+    
+  .main-menu .popup-sub-menu .items-sitem {
+  font-size: 0.9em;
+  font-weight: bold;
+  }
+  .main-menu .popup-sub-menu .items-sitem > :first-child:ltr {
+    margin-left: 0em;
+    }
+  .main-menu .popup-sub-menu .items-sitem > :first-child:rtl {
+    margin-right: 0em; }
+    
+  .activities-running-apps {
+    spacing: 15px;
+    margin-right: 8px;
+    }
+
+.applications-panel {
+}
+
+.main-menu .popup-sub-menu .popup-separator-menu-item > :first-child:ltr {
+    margin-left: 0em;
+    }
+    
+.main-menu .popup-inactive-menu-item > StLabel {
+  font-weight: 700;
+  font-size: 0.818em; }
+  
+  .my-rounded-menu {
+}
+
+.main-menu .popup-sub-menu .popup-separator-menu-item.sppop > :first-child:ltr{
+margin-left: 16px;
+}
