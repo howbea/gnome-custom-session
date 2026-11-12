@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=CustomG on Wayland
+Comment=This session logs you into CustomG
+Exec=/usr/bin/gnome-session --session=customg
+TryExec=/usr/bin/gnome-session
+Type=Application
+DesktopNames=CustomG;GNOME
+X-GDM-SessionRegisters=true
+X-GDM-CanRunHeadless=true

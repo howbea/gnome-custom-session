@@ -1,0 +1,9 @@
+{
+    "parentMode": "user",
+    "colorScheme": "prefer-light",
+    "enabledExtensions": [],
+    "panel": { "left": ["activities"],
+               "center": [],
+               "right": ["screenRecording", "screenSharing", "dwellClick", "a11y", "keyboard", "quickSettings", "dateMenu"]
+             }
+}
