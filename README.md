@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![GNOME 5.1 Desktop](screenshots/screensot.png)
+![GNOME 5.1 Desktop](screenshots/screenshot.png)
 
 ### A New GNOME Environment
 
