@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=GNOME5 on Wayland
-Comment=This session logs you into GNOME5
+Name=G5 on Wayland
+Comment=This session logs you into G5
 Exec=gnome-session --session=g5
 TryExec=/usr/bin/gnome-session
 Type=Application
-DesktopNames=GNOME5;GNOME
+DesktopNames=G5;GNOME
 X-GDM-SessionRegisters=true
 X-GDM-CanRunHeadless=true
