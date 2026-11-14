@@ -1,12 +1,12 @@
-# GNOME 5.1
+# G5 5.1
 
 ## Screenshot
 
-![GNOME 5.1 Desktop](screenshots/screenshot.png)
+![G5 5.1 Desktop](screenshots/screenshot.png)
 
 ### A New GNOME Environment
 
-GNOME 5.1 is an independent desktop environment built on GNOME Shell.
+G5 5.1 is an independent desktop environment built on GNOME Shell.
 
 It aims to provide an alternative GNOME experience while preserving the simplicity, usability, and familiar workflow of the original GNOME desktop.
 
@@ -16,7 +16,7 @@ Rather than replacing GNOME, GNOME 5.1 offers another way to experience it.
 
 ## Overview
 
-GNOME 5.1 builds upon the existing GNOME desktop environment, introducing its own interface and desktop experience while maintaining compatibility with the GNOME ecosystem.
+G5 5.1 builds upon the existing GNOME desktop environment, introducing its own interface and desktop experience while maintaining compatibility with the GNOME ecosystem.
 
 The goal is to stay close to GNOME while providing a distinct and consistent user experience.
 
@@ -39,7 +39,7 @@ The goal is to stay close to GNOME while providing a distinct and consistent use
 
 ## Philosophy
 
-GNOME 5.1 is not intended to replace GNOME.
+G5 5.1 is not intended to replace GNOME.
 
 It is an alternative GNOME environment that builds upon GNOME's existing technologies and design principles.
 
@@ -52,7 +52,7 @@ Our focus is on:
 
 ## Project Status
 
-GNOME 5.1 is currently under development.
+G5 5.1 is currently under development.
 
 The desktop session is functional, and GNOME Settings integration is working.
 
@@ -68,4 +68,4 @@ License information will be added.
 
 ---
 
-**GNOME 5.1 — A New GNOME Environment.**
+**G5 5.1 — A New GNOME Environment.**
