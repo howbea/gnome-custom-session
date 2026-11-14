@@ -1,0 +1,8 @@
+{
+    "parentMode": "user",
+    "panel": { "left": [],
+               "center": [],
+               "right": ["screenRecording", "screenSharing", "dwellClick", "a11y", "keyboard", "activities", "quickSettings", "dateMenu"]
+             },
+    "enabledExtensions": ["mainmenu@g5", "gappmenu@g5", "rightboxactivities@g5", "hidesystemitem@g5"]
+}
