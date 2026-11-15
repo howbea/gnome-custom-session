@@ -1,9 +1,9 @@
-# A New GNOME Environment
+# New GNOME Environment
 ## Screenshot
 
 ![G5 5.1 Desktop](screenshots/screenshot.png)
 
-### A New GNOME Environment
+### G5 5.1 — A New GNOME Environment
 
 G5 5.1 is an independent desktop environment built on GNOME Shell.
 
