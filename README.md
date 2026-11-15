@@ -59,7 +59,7 @@ Installation and distribution are among the next development goals.
 
 ## Installation
 
-Copy the files to the corresponding system directories using `cp -r` and `gnome-extensions install`.
+Copy the files to the corresponding system directories using `cp -r` and use `gnome-extensions install` to install the extensions.
 
 ## License
 
