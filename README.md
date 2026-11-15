@@ -64,7 +64,7 @@ Installation instructions will be provided once the packaging and distribution p
 
 ## License
 
-License information will be added.
+Under GPL 3.0.
 
 ---
 
