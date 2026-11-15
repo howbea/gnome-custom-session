@@ -59,7 +59,7 @@ Installation and distribution are among the next development goals.
 
 ## Installation
 
-Installation instructions will be provided once the packaging and distribution process is ready.
+Use "cp -r" to your system directory
 
 ## License
 
