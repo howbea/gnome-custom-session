@@ -1,4 +1,4 @@
-# G5 5.1 — A New GNOME Environment.
+# G5 5.1 — A New GNOME Environment
 
 ## Screenshot
 
