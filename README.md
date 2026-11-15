@@ -59,7 +59,7 @@ Installation and distribution are among the next development goals.
 
 ## Installation
 
-Use "cp -r" to your system directory
+Copy the files to the corresponding system directories using `cp -r`.
 
 ## License
 
